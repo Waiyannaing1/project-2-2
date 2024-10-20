@@ -1,0 +1,91 @@
+/* General Styles */
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+/* Container */
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+/* Header Styles */
+.header {
+    background-color:white;
+    color: red;
+    padding: 1em;
+    text-align: left;
+   
+}
+.header img {
+
+    width: 100px;
+    height: 100px;
+
+}
+/* Navigation Styles */
+.nav {
+    background-color:red;
+    overflow: hidden;
+    padding: 1em;
+    text-align: center;
+}
+
+.nav a {
+    color:white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.nav a:hover {
+    background-color: #ddd;
+    color: black;
+    padding: 5px;
+}
+
+/* Content Styles */
+.content {
+    padding: 20px;
+    background-color:white;
+    
+}
+
+h2 {
+    color: #333;
+}
+
+.product-categories {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.category {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    width: 22%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.category img {
+    width: 100px;
+    height: 100px;
+}
+
+.category h3 {
+    color:red;
+}
+
+/* Footer Styles */
+.footer {
+    background-color:red;
+    color:white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 20px;
+}
