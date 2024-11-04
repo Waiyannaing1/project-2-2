@@ -6,7 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>MC Electric and Electronic</title>
     <link rel="stylesheet" href="styyle.css">
-    
 </head>
 <body>
     <div class="container">
@@ -17,13 +16,12 @@
 
         <!-- Navigation Section -->
         <nav class="nav">
-            <a href="index.html">Home</a> |
-            <a href="Cables.html">Cables</a> |
+            <a href="#">Home</a> |
+            <a href="#">Cables</a> |
             <a href="#">Chargers</a> |
-            <a href="powerbank.html ">Power Banks</a> |
+            <a href="powerbank.html">Power Banks</a> |
             <a href="#">Adapters</a> |
-            <a href="contact.html">Contact US</a>
-           
+            <a href="contact.html">Contact US</a>   
         </nav>
 
         <!-- Main Content Section -->
